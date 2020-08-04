@@ -1,45 +1,47 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Músicas",
       "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "cor": "#388542",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
+        "text": "Obviamente músicas que curto",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Um dos melhores do século XXI, será ?",
+          "url": "https://www.youtube.com/watch?v=34Na4j8AVgA"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "The Weeknd feat Daft Punk - Starboy",
+          "url": "https://www.youtube.com/watch?v=34Na4j8AVgA"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "The Weeknd - All i know",
+          "url": "https://www.youtube.com/watch?v=sfvFAqzIGh8&list=PLWGXKDxW301QZrzSl7hLzdYakFdayHC4l&index=17&t=0s"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "The Weeknd - Sidewalks",
+          "url": "https://www.youtube.com/watch?v=DWi73D1vZTc&list=PLWGXKDxW301QZrzSl7hLzdYakFdayHC4l&index=9"
+        },
+     
+        {
+          "titulo": "The Weeknd - Reminder",
+          "url": "https://www.youtube.com/watch?v=a40tAP5MC6M&list=PLWGXKDxW301QZrzSl7hLzdYakFdayHC4l&index=4"
+        },
+
+        {
+          "titulo": "Supercombo - Bomba Relógio",
+          "url": "https://www.youtube.com/watch?v=Vnok_Q27nK4&list=OLAK5uy_mOWrfy5g1CykVJ8zAuTzwqh9e_Ze55lSU&index=9&t=0s"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Supercombo - Jovem",
+          "url": "https://www.youtube.com/watch?v=0ZjEl7uHGPU&list=OLAK5uy_mOWrfy5g1CykVJ8zAuTzwqh9e_Ze55lSU&index=9"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Supercombo - Como são as coisas",
+          "url": "https://www.youtube.com/watch?v=hW6_1m19-gM&list=PLNwF6ebVliPTByAPQYKCPMGCtkAswEJOq&index=7&t=0s"
         }        
       ]
     },
